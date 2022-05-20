@@ -1,0 +1,80 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Mo Ashraf",
+      "company": "YouTube",
+      "email": "brad@gmail.com",
+      "title": "Youtuber",
+      "mobile": "9876546787",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
+      "groupId": "3"
+    },
+    {
+      "id": "TVobxeKbI",
+      "name": "Glenda Kim",
+      "company": "HCL Technologies",
+      "email": "glenda@gmail.com",
+      "title": "freelancer",
+      "mobile": "8880009991",
+      "photo": "https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png",
+      "groupId": "2"
+    },
+    {
+      "id": "UyEDV5Yds",
+      "name": "Vladeen Min",
+      "company": "Service",
+      "email": "vladeen@gmail.com",
+      "title": "Electrician",
+      "mobile": "9876546787",
+      "photo": "https://png.pngtree.com/png-clipart/20190922/original/pngtree-business-male-user-avatar-vector-png-image_4774078.jpg",
+      "groupId": "4"
+    },
+    {
+      "name": "Rajan",
+      "photo": "https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/256/User-icon.png",
+      "mobile": "9090909090",
+      "email": "rajan@gmail.com",
+      "company": "HCL Technologies",
+      "title": "Software Engineer",
+      "groupId": "1",
+      "id": "kLt-bJF"
+    },
+    {
+      "name": "ashraf",
+      "photo": "data:image/png;base64,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",
+      "email": "ashraf922@gmail.com",
+      "mobile": 1225963654,
+      "company": "teash arbic",
+      "title": "mdras 3raby",
+      "groupId": "1",
+      "id": "o7cHnOW"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
